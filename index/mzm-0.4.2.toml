@@ -1,0 +1,5 @@
+name = "Metroid Zero Mission"
+home = "https://discord.com/channels/731205301247803413/1106280250528235620"
+
+[versions]
+"0.4.2" = { local = "../apworlds/mzm-0.4.2.apworld" }
